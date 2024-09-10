@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @allu0786ansari
+- Turning thoughts into actions and vision into reality...
 - 👀 I’m interested in Artificial Intelligence, Machine Learning and Generative AI.
 - 🌱 I’m currently learning AI and ML
 -     I am a B.Tech CS enginerring student at SRM Institute of Science and Technology, KTR main Campus, Chennai.
