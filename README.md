@@ -5,6 +5,7 @@
 -     I am a B.Tech CS enginerring student at SRM Institute of Science and Technology, KTR main Campus, Chennai.
 - 💞️ I’m looking to collaborate on project in the fields of ai and ml (mainly in computer vision).
 - 📫 How to reach me: You can contact me : allu456654ansari@gmail.com
+- You can reach out to me on LinkedIn: www.linkedin.com/in/allaudin-ansari-253882285 
 - 😄 Pronouns: He/Him
 
 <!---
