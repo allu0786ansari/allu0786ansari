@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allu0786ansari&label=Profile%20views&color=0e75b6&style=flat" alt="allu0786ansari" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=allu0786ansari" alt="allu0786ansari" /></a> </p>
-
 - 🌱 I’m currently learning **AI and ML**
 
 - 👯 I’m looking to collaborate on **on project in the fields of ai and ml (mainly in computer vision).**
@@ -18,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@allu786ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@allu786ansari" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/allaudin-ansari-253882285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/allaudin-ansari-253882285" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/allaudin-ansari-253882285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/allaudin-ansari-253882285" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/allu0786ansari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="allu0786ansari" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@allu456654ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@allu456654ansari" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/allaudinansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="allaudinansari" height="30" width="40" /></a>
