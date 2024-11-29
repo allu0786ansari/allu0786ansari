@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allu0786ansari&label=Profile%20views&color=0e75b6&style=flat" alt="allu0786ansari" /> </p>
 
-- 🌱 I’m currently learning **AI and ML**
+- 🌱 I’m currently learning AI and ML
 
 - 👯 I’m looking to collaborate on ** project in the fields of ai and ml (mainly in computer vision).**
 
