@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Allaudin Ansari</h1>
-<h3 align="center">A passionate Web Developer and ML Engineer from SRM Institute of Science and Technology, pursuing a B.Tech in Computer Science and Engineering. I specialize in building innovative web applications using cutting-edge frameworks and tools, blending AI-driven solutions with seamless user experience.</h3>
+<h3 align="center">A passionate Machine Learning Engineer/ Data Scientist from SRM Institute of Science and Technology, pursuing a B.Tech in Computer Science and Engineering. I specialize in building innovative web applications using cutting-edge frameworks and tools, blending AI-driven solutions with seamless user experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allu0786ansari&label=Profile%20views&color=0e75b6&style=flat" alt="allu0786ansari" /> </p>
 
