@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Allaudin Ansari</h1>
-<h3 align="center">A passionate Machine Learning Engineer/ Data Scientist/ AI Engineer from SRM Institute of Science and Technology, pursuing a B.Tech in Computer Science and Engineering. I specialize in building innovative ai model for real world applications using cutting-edge frameworks and tools, blending AI-driven solutions with seamless user experience.</h3>
+<h3 align="center">A passionate Machine Learning Engineer/ Data Scientist/ AI Engineer / Backend Developer from SRM Institute of Science and Technology, pursuing a B.Tech in Computer Science and Engineering. I specialize in building innovative ai model for real world applications using cutting-edge frameworks and tools, blending AI-driven solutions with seamless user experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allu0786ansari&label=Profile%20views&color=0e75b6&style=flat" alt="allu0786ansari" /> </p>
 
@@ -10,6 +10,7 @@
 - 👨‍💻 All of my projects are available at Github
 
 - 📫 How to reach me **allu456654ansari@gmail.com**
+
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10yisllZajwYvvIBVxTGWmm0PERcpgciH/view?usp=drive_link](https://drive.google.com/file/d/10yisllZajwYvvIBVxTGWmm0PERcpgciH/view?usp=drive_link)
 
