@@ -12,7 +12,7 @@
 - 📫 How to reach me **allu456654ansari@gmail.com**
 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10yisllZajwYvvIBVxTGWmm0PERcpgciH/view?usp=drive_link](https://drive.google.com/file/d/10yisllZajwYvvIBVxTGWmm0PERcpgciH/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1P7G6TSf8BGaf2KxVm4H3cJRm9nGJLEs8/view?usp=sharing)
 
 
 
