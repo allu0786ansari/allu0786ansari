@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning AI and ML
 
-- 👯 I’m looking to collaborate on project in the fields of ai and ml (mainly in computer vision).
+- 👯 I’m looking to collaborate on project in the fields of AI/ML and Quantum Copmuting.
 
 - 👨‍💻 All of my projects are available at Github
 
