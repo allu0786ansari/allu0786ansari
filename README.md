@@ -8,10 +8,6 @@
 - 🛠️ **Core Stack:** PyTorch, LangChain, FastAPI, Docker, MLflow, Airflow, Redis, Celery, and Qiskit.
 - 👨‍💻 **Portfolio:** All of my projects are fully detailed and open-source below.
 - 📫 **How to Reach Me:** [allu0786ansari786ai@gmail.com](mailto:allu0786ansari786ai@gmail.com)
-- 📄 **My Background:** Check out my complete experiences on my [Resume](https://drive.google.com/file/d/1P7G6TSf8BGaf2KxVm4H3cJRm9nGJLEs8/view?usp=sharing).
+- 📄 **My Background:** Check out my complete experiences on my [Resume](https://drive.google.com/file/d/1yOBYN22iJtRNd_nHb2rGKr-LKwx-BSde/view?usp=sharing).
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=allu0786ansari&show_icons=true&locale=en&layout=compact" alt="allu0786ansari" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=allu0786ansari&show_icons=true&locale=en" alt="allu0786ansari" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=allu0786ansari&" alt="allu0786ansari" /></p>
